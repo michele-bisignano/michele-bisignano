@@ -27,7 +27,7 @@ Feel free to contact me at: [michele.bisignano2005@gmail.com](mailto:michele.bis
 
 ## 🔧 Languages & Tools
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" width="50" height="50"/> </a>
 <a href="https://dotnet.microsoft.com/it-it/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" alt="c#" width="50" height="50"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/> </a>
