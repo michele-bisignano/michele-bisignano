@@ -14,14 +14,9 @@ I'm a **Computer Engineering student** passionate about programming and the logi
 
 ---
 
-## 🔧 Technologies & Tools
-[![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)](https://www.learn-c.org/)  
-[![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)](https://isocpp.org/)  
-[![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)](https://www.python.org/)  
-[![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+## 🔧 Languages & Tools
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+
 
 ---
 
