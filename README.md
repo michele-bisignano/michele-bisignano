@@ -31,9 +31,9 @@ Feel free to contact me at: [michele.bisignano2005@gmail.com](mailto:michele.bis
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" width="50" height="50"/> </a>
 <a href="https://dotnet.microsoft.com/it-it/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" alt="c#" width="50" height="50"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Unity" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="46" height="46"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="46" height="46"/> </a>
 <a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50"/> </a>
 <a href="https://css-tricks.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50" height="50"/> </a>
 </p>
