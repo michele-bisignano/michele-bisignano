@@ -5,7 +5,6 @@ I'm a **Computer Engineering student** passionate about programming and the logi
 ---
 
 ## 🚀 What I Do
-- **Programming Languages:** C, C++, C#, Python, HTML, CSS, SQL
 - **Tech Enthusiast:** Always eager to learn new technologies and languages.
 - **Problem Solver:** Passionate about logical, mathematical, and physics-based challenges.
 
