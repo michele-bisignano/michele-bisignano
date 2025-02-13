@@ -36,3 +36,5 @@ Feel free to contact me at: [michele.bisignano2005@gmail.com](mailto:michele.bis
 <a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50"/> </a>
 <a href="https://css-tricks.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50" height="50"/> </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BisyB&show_icons=true&locale=en&layout=compact" alt="BisyB" /></p>
