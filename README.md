@@ -39,4 +39,4 @@ Feel free to contact me at: [michele.bisignano2005@gmail.com](mailto:michele.bis
 <a href="https://css-tricks.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50" height="50"/> </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michele-bisignano&hide=asp.net,ShaderLab,HLSL&layout=compact&legend_pos=right)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michele-bisignano&hide=asp.net,ShaderLab,HLSL&layout=pie&legend_pos=left)
