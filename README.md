@@ -44,7 +44,9 @@ Here are some of the projects I've worked on:
 ---
 
 ## 📫 How to Reach Me
-Feel free to contact me at: [michele.bisignano2005@gmail.com](mailto:michele.bisignano2005@gmail.com)
+Feel free to contact me at: 
+- [michele.bisignano2005@gmail.com](mailto:michele.bisignano2005@gmail.com)
+- [Linkedin](linkedin.com/in/michele-bisignano-a16945372)
 
 ---
 
