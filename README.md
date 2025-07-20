@@ -45,9 +45,23 @@ Here are some of the projects I've worked on:
 
 ## 📫 How to Reach Me
 Feel free to contact me at: 
-- [LinkedIn](https://www.linkedin.com/in/michele-bisignano-a16945372)
-- [bisignano.dev@gmail.com](mailto:bisignano.dev@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/michele-bisignano-a16945372" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="46" height="46"/>
+  </a>
+  <a href="https://www.linkedin.com/in/michele-bisignano-a16945372" target="_blank" rel="noreferrer">
+    LinkedIn
+  </a>
+</p>
 
+<p align="left">
+  <a href="mailto:bisignano.dev@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="46" height="46"/>
+  </a>
+  <a href="mailto:bisignano.dev@gmail.com">
+    bisignano.dev@gmail.com
+  </a>
+</p>
 ---
 
 *Always curious and hungry for knowledge, I'm excited to connect and collaborate on innovative projects!*
