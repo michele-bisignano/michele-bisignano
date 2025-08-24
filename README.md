@@ -73,7 +73,7 @@ Feel free to contact me at:
 
 ## 🔧 Languages & Tools
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="46" height="46"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" width="50" height="50"/> </a>
 <a href="https://dotnet.microsoft.com/it-it/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" alt="c#" width="50" height="50"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/> </a>
@@ -81,10 +81,12 @@ Feel free to contact me at:
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="38" height="50"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="50" height="50"/> </a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="46" height="46"/> </a>
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000" alt="Shopify" width="50" height="50"/> </a>
 <a href = "https://it.wikipedia.org/wiki/Linguaggio_assembly" target="_blank" rel="noreferrer"><img width="53" height="53" src="https://img.icons8.com/color/100/assembly.png" alt="assembly"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="46" height="46"/> </a>
 <a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50"/> </a>
 <a href="https://css-tricks.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50" height="50"/> </a>
+<a href="https://www.shopify.com/it" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000" alt="Shopify" width="50" height="50"/> </a>
 </p>
 
 <div align="center">
