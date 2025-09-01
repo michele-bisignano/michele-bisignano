@@ -16,6 +16,9 @@ Here are some of the projects I've worked on:
 
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing object-oriented design and robust logic.
+  
+- [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)  
+  A high-performance, hardware-agnostic C++ engine for creating dynamic keyboard lighting effects.
 
 - [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
   A precision fermentation chamber controller built with a predictive, object-oriented C++ core. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
