@@ -17,7 +17,8 @@ Here are some of the projects I've worked on:
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing object-oriented design and robust logic.
   
-- [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)  
+- <a href="https://github.com/michele-bisignano/RippleFX-Engine.git"><img src="https://raw.githubusercontent.com/michele-bisignano/RippleFX-Engine/main/assets/RippleEffectLogo.jpeg" alt="RippleFX Icon" width="30" style="vertical-align: middle;"/></a>
+  [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)  
   A high-performance, hardware-agnostic C++ engine for creating dynamic keyboard lighting effects.
 
 - [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
@@ -26,19 +27,19 @@ Here are some of the projects I've worked on:
 - [**PDF Converter**](https://github.com/michele-bisignano/pdf_converter)  
   A lightweight tool for converting bank statement form PDF to exel.
 
-- [**SudokuSolver**](https://github.com/michele-bisignano/SudokuSolver)  
+- <a href="https://github.com/michele-bisignano/SudokuSolver"><img src="https://raw.githubusercontent.com/michele-bisignano/SudokuSolver/main/logoSudoku.png" alt="SudokuSolver Icon" width="30" style="vertical-align: middle;"/></a>[**SudokuSolver**](https://github.com/michele-bisignano/SudokuSolver)  
   An efficient Sudoku solver built with Unity.
 
-- [**Maze**](https://github.com/michele-bisignano/Maze)  
+- <a href="https://github.com/michele-bisignano/Maze"><img src="https://raw.githubusercontent.com/michele-bisignano/Maze/main/Traguardo_Labirinto.ico" alt="Maze Icon" width="30" style="vertical-align: middle;"/></a>[**Maze**](https://github.com/michele-bisignano/Maze)  
   A random maze generator built with Unity.
 
-- [**Hangman**](https://github.com/michele-bisignano/Hangman)  
+- <a href="https://github.com/michele-bisignano/Hangman"><img src="https://raw.githubusercontent.com/michele-bisignano/Hangman/main/logo.ico" alt="Hangman Icon" width="30" style="vertical-align: middle;"/></a>[**Hangman**](https://github.com/michele-bisignano/Hangman)  
   Classic Hangman game built with Unity.
 
 - [**MIPS_DoorManager**](https://github.com/michele-bisignano/MIPS_DoorManager)  
   A door management system implemented in MIPS Assembly, designed for embedded systems coursework.
 
-- [**HangmanTeacher**](https://github.com/michele-bisignano/HangmanTeacher)  
+- <a href="https://github.com/michele-bisignano/HangmanTeacher"><img src="https://raw.githubusercontent.com/michele-bisignano/HangmanTeacher/main/logo.ico" alt="HangmanTeacher Icon" width="30" style="vertical-align: middle;"/></a>[**HangmanTeacher**](https://github.com/michele-bisignano/HangmanTeacher)  
   An interactive Hangman variant designed to help users learn, currently used by a school to evaluate students.
 
 - [**Sine-die**](https://youtu.be/uBRmuECCYQo)  
