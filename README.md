@@ -68,6 +68,7 @@ Feel free to contact me at:
     bisignano.dev@gmail.com
   </a>
 </p>
+
 ---
 
 *Always curious and hungry for knowledge, I'm excited to connect and collaborate on innovative projects!*
