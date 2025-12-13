@@ -99,7 +99,7 @@ Feel free to contact me at:
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="60"/> </a>
   <a href="https://www.shopify.com/it" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=rhNJ4aVAWrpL&format=png&color=000000" alt="Shopify" height="60"/> </a>
 </p>
-<!--
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michele-bisignano&layout=donut&hide=asp.net,ShaderLab,HLSL&legend_pos=left" alt="Top Langs" />
-</div> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michele-bisignano&layout=donut&hide=asp.net,ShaderLab,HLSL,HTML&legend_pos=left" alt="Top Langs" />
+</div> 
