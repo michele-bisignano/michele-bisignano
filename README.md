@@ -15,7 +15,7 @@ I'm a **Computer Engineering student** passionate about programming and the logi
 Here are some of the projects I've worked on:
 
 - [**Aether-Lock**](https://github.com/michele-bisignano/Aether-Lock.git)  
-  Java-based digital adaptation of the board game Galaxy Trucker, emphasizing object-oriented design and robust logic.
+Active Magnetic Levitation System. A model-based implementation on ESP32 ensuring vertical stability via closed-loop feedback.
 
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing object-oriented design and robust logic.
