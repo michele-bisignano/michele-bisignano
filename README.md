@@ -49,6 +49,10 @@ Active Magnetic Levitation System. A model-based implementation on ESP32 ensurin
 - [**Sine-die**](https://youtu.be/uBRmuECCYQo)  
   A strategy and battle game developed with Unity and published for Android devices between 2023 and 2024.
 
+- [**Tree-Generator**](https://github.com/michele-bisignano/Tree-Generator.git)
+  A Python utility to automatically generate a Markdown directory tree for your project documentation. It respects .gitignore rules and creates "living documentation".
+
+
 - [**impiccato-cpp**](https://github.com/michele-bisignano/impiccato-cpp)  
   First version of Hangman, implemented in C++, when the developer was 15.
 
