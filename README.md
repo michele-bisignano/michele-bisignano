@@ -14,6 +14,7 @@ I'm a **Computer Engineering student** passionate about programming and the logi
 
 Here are some of the projects I've worked on:
 
+- <a href="https://github.com/michele-bisignano/Aether-Lock.git"><img src="https://github.com/michele-bisignano/Aether-Lock/blob/main/Docs/Images/Aether-Lock_Logo.png" alt="Aether_Lock Icon" width="30" style="vertical-align: middle;"/></a>
 - [**Aether-Lock**](https://github.com/michele-bisignano/Aether-Lock.git)  
 Active Magnetic Levitation System. A model-based implementation on ESP32 ensuring vertical stability via closed-loop feedback.
 
