@@ -22,7 +22,7 @@ Active Magnetic Levitation System. A model-based implementation on ESP32 ensurin
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing object-oriented design and robust logic.
 
 - [**Tree-Generator**](https://github.com/michele-bisignano/Tree-Generator.git)  
-  A Python utility to automatically generate a Markdown directory tree for your project documentation. It respects .gitignore rules and creates "living documentation".
+  Statistical analysis of air pollution drivers in Lombardy (Agrimonia dataset). Investigating meteorological factors and the impact of COVID-19 lockdown on PM10 & NO2 levels.
   
 - <a href="https://github.com/michele-bisignano/RippleFX-Engine.git"><img src="https://raw.githubusercontent.com/michele-bisignano/RippleFX-Engine/main/assets/RippleEffectLogo.jpeg" alt="RippleFX Icon" width="30" style="vertical-align: middle;"/></a>
   [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)  
