@@ -16,35 +16,35 @@ Here are some of the projects I've worked on:
 
 - <a href="https://github.com/michele-bisignano/Aether-Lock.git"><img src="https://github.com/michele-bisignano/Aether-Lock/blob/main/Docs/Images/Aether-Lock_Logo.png" alt="Aether_Lock Icon" width="30" style="vertical-align: middle;"/></a>
 [**Aether-Lock**](https://github.com/michele-bisignano/Aether-Lock.git)  
-Active <strong> Magnetic Levitation System</strong>. A model-based implementation on ESP32 ensuring vertical stability via closed-loop feedback.
+Active <strong> Magnetic Levitation</strong> System</strong>. A model-based implementation on ESP32 ensuring vertical stability via closed-loop feedback.
 
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
-  Java-based digital adaptation of the board game Galaxy Trucker, emphasizing object-oriented design and robust logic.
+  Java-based digital adaptation of the board game Galaxy Trucker, emphasizing <strong>object-oriented design and robust logic</strong>.
 
 - [**Tree-Generator**](https://github.com/michele-bisignano/Tree-Generator.git)  
-  A Python utility to automatically generate a Markdown directory tree for your project documentation. It respects .gitignore rules and creates "living documentation".
+  A Python utility to automatically <strong>generate</strong> a Markdown directory<strong> tree </strong>for your project documentation. It respects .gitignore rules and creates "living documentation".
   
 - <a href="https://github.com/michele-bisignano/RippleFX-Engine.git"><img src="https://raw.githubusercontent.com/michele-bisignano/RippleFX-Engine/main/assets/RippleEffectLogo.jpeg" alt="RippleFX Icon" width="30" style="vertical-align: middle;"/></a>
   [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)  
-  A high-performance, hardware-agnostic C++ engine for creating dynamic keyboard lighting effects.
+  A high-performance, <strong>hardware-agnostic C++ engine</strong> for creating dynamic keyboard lighting effects.
 
 - [**Agrimonia-Air-Quality-Regression**](https://github.com/michele-bisignano/Agrimonia-Air-Quality-Regression.git)  
-  Statistical analysis of air pollution drivers in Lombardy (Agrimonia dataset). Investigating meteorological factors and the impact of COVID-19 lockdown on PM10 & NO2 levels.
+  <strong>Statistical analysis of air pollution</strong> drivers in Lombardy (Agrimonia dataset). Investigating meteorological factors and the impact of COVID-19 lockdown on PM10 & NO2 levels.
 
 - [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
-  A precision fermentation chamber controller built with a predictive, object-oriented C++ core. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
+  A precision fermentation chamber controller built with a predictive, <strong>object-oriented C++ core</strong>. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
 
 - [**PDF Converter**](https://github.com/michele-bisignano/pdf_converter)  
-  A lightweight tool for converting bank statement form PDF to exel.
+  A lightweight tool for <strong>converting</strong> bank statement form <strong>PDF</strong> to <strong>exel</strong>.
 
 - <a href="https://github.com/michele-bisignano/SudokuSolver"><img src="https://raw.githubusercontent.com/michele-bisignano/SudokuSolver/main/logoSudoku.png" alt="SudokuSolver Icon" width="30" style="vertical-align: middle;"/></a>[**SudokuSolver**](https://github.com/michele-bisignano/SudokuSolver)  
-  An efficient Sudoku solver built with Unity.
+  An <strong> AI-based solver Sudoku solver</strong> built with Unity.
 
 - <a href="https://github.com/michele-bisignano/Maze"><img src="https://raw.githubusercontent.com/michele-bisignano/Maze/main/Traguardo_Labirinto.ico" alt="Maze Icon" width="30" style="vertical-align: middle;"/></a>[**Maze**](https://github.com/michele-bisignano/Maze)  
-  A random maze generator built with Unity.
+  A procedural maze generator built with Unity that utilizes a<strong>  Depth-First Search (DFS) backtracking algorithm  </strong>to carve unique, solvable paths.
 
 - <a href="https://github.com/michele-bisignano/Hangman"><img src="https://raw.githubusercontent.com/michele-bisignano/Hangman/main/logo.ico" alt="Hangman Icon" width="30" style="vertical-align: middle;"/></a>[**Hangman**](https://github.com/michele-bisignano/Hangman)  
-  Classic Hangman game built with Unity.
+  Classic Hangman game featuring an intelligent  <strong>AI solver </strong>. The AI uses a  <strong>heuristic search algorithm </strong>, applying dictionary-based constraints and letter frequency analysis to deduce the correct word efficiently.
 
 - [**MIPS_DoorManager**](https://github.com/michele-bisignano/MIPS_DoorManager)  
   A door management system implemented in MIPS Assembly, designed for embedded systems coursework.
