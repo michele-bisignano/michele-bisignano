@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 
 - <a href="https://github.com/michele-bisignano/Aether-Lock.git"><img src="https://github.com/michele-bisignano/Aether-Lock/blob/main/Docs/Images/Aether-Lock_Logo.png" alt="Aether_Lock Icon" width="30" style="vertical-align: middle;"/></a>
 [**Aether-Lock**](https://github.com/michele-bisignano/Aether-Lock.git)  
-Active Magnetic Levitation System. A model-based implementation on ESP32 ensuring vertical stability via closed-loop feedback.
+Active <strong> Magnetic Levitation System</strong>. A model-based implementation on ESP32 ensuring vertical stability via closed-loop feedback.
 
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing object-oriented design and robust logic.
@@ -29,10 +29,10 @@ Active Magnetic Levitation System. A model-based implementation on ESP32 ensurin
   A high-performance, hardware-agnostic C++ engine for creating dynamic keyboard lighting effects.
 
 - [**Agrimonia-Air-Quality-Regression**](https://github.com/michele-bisignano/Agrimonia-Air-Quality-Regression.git)  
-  A precision fermentation chamber controller built with a predictive, object-oriented C++ core. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
+  Statistical analysis of air pollution drivers in Lombardy (Agrimonia dataset). Investigating meteorological factors and the impact of COVID-19 lockdown on PM10 & NO2 levels.
 
 - [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
-  Statistical analysis of air pollution drivers in Lombardy (Agrimonia dataset). Investigating meteorological factors and the impact of COVID-19 lockdown on PM10 & NO2 levels.
+  A precision fermentation chamber controller built with a predictive, object-oriented C++ core. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
 
 - [**PDF Converter**](https://github.com/michele-bisignano/pdf_converter)  
   A lightweight tool for converting bank statement form PDF to exel.
