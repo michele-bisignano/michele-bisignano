@@ -20,12 +20,18 @@ Active Magnetic Levitation System. A model-based implementation on ESP32 ensurin
 
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing object-oriented design and robust logic.
+
+- [**Tree-Generator**](https://github.com/michele-bisignano/Tree-Generator.git)  
+  A Python utility to automatically generate a Markdown directory tree for your project documentation. It respects .gitignore rules and creates "living documentation".
   
 - <a href="https://github.com/michele-bisignano/RippleFX-Engine.git"><img src="https://raw.githubusercontent.com/michele-bisignano/RippleFX-Engine/main/assets/RippleEffectLogo.jpeg" alt="RippleFX Icon" width="30" style="vertical-align: middle;"/></a>
   [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)  
   A high-performance, hardware-agnostic C++ engine for creating dynamic keyboard lighting effects.
 
-- [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
+-   [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
+  A precision fermentation chamber controller built with a predictive, object-oriented C++ core. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
+
+-   [**Agrimonia-Air-Quality-Regression**](https://github.com/michele-bisignano/Agrimonia-Air-Quality-Regression.git)  
   A precision fermentation chamber controller built with a predictive, object-oriented C++ core. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
 
 - [**PDF Converter**](https://github.com/michele-bisignano/pdf_converter)  
@@ -48,9 +54,6 @@ Active Magnetic Levitation System. A model-based implementation on ESP32 ensurin
 
 - [**Sine-die**](https://youtu.be/uBRmuECCYQo)  
   A strategy and battle game developed with Unity and published for Android devices between 2023 and 2024.
-
-- [**Tree-Generator**](https://github.com/michele-bisignano/Tree-Generator.git)  
-  A Python utility to automatically generate a Markdown directory tree for your project documentation. It respects .gitignore rules and creates "living documentation".
 
 - [**impiccato-cpp**](https://github.com/michele-bisignano/impiccato-cpp)  
   First version of Hangman, implemented in C++, when the developer was 15.
