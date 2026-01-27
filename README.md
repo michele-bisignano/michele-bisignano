@@ -28,11 +28,11 @@ Active Magnetic Levitation System. A model-based implementation on ESP32 ensurin
   [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)  
   A high-performance, hardware-agnostic C++ engine for creating dynamic keyboard lighting effects.
 
--   [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
-  Statistical analysis of air pollution drivers in Lombardy (Agrimonia dataset). Investigating meteorological factors and the impact of COVID-19 lockdown on PM10 & NO2 levels.
-
--   [**Agrimonia-Air-Quality-Regression**](https://github.com/michele-bisignano/Agrimonia-Air-Quality-Regression.git)  
+- [**Agrimonia-Air-Quality-Regression**](https://github.com/michele-bisignano/Agrimonia-Air-Quality-Regression.git)  
   A precision fermentation chamber controller built with a predictive, object-oriented C++ core. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
+
+- [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
+  Statistical analysis of air pollution drivers in Lombardy (Agrimonia dataset). Investigating meteorological factors and the impact of COVID-19 lockdown on PM10 & NO2 levels.
 
 - [**PDF Converter**](https://github.com/michele-bisignano/pdf_converter)  
   A lightweight tool for converting bank statement form PDF to exel.
