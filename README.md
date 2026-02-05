@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 [**Aether-Lock**](https://github.com/michele-bisignano/Aether-Lock.git)  
 Active <strong> Magnetic Levitation</strong> System. A model-based implementation on ESP32 ensuring vertical stability via closed-loop feedback.
 
-- <a href="https://github.com/Mattia-Franchini/SmartBode-Tuner.git"><img src="https://github.com/Mattia-Franchini/SmartBode-Tuner/Docs/Assets/logo_SmartBode-Tuner.png" alt="SmartBode Icon" width="30" style="vertical-align: middle;"/></a>
+- <a href="https://github.com/Mattia-Franchini/SmartBode-Tuner.git"><img src="https://github.com/Mattia-Franchini/SmartBode-Tuner/blob/main/Docs/Assets/logo_SmartBode-Tuner.png?raw=true" alt="SmartBode Icon" width="30" style="vertical-align: middle;"/></a>
 [**Smart-Bode**](https://github.com/Mattia-Franchini/SmartBode-Tuner.git)  
 <strong>AI-powered</strong> CAD platform for automated synthesis of LTI compensators. Features <strong>Differential Evolution</strong> optimization, multi-domain analysis (Bode, Nyquist, Step Response), and professional Bento Grid UI. Built with React (TS), Node.js, and <strong>Python FastAPI</strong>.
 
