@@ -22,8 +22,6 @@ Active <strong> Magnetic Levitation</strong> System. A model-based implementatio
 [**Smart-Bode**](https://github.com/Mattia-Franchini/SmartBode-Tuner.git)  
 <strong>AI-powered</strong> CAD platform for automated synthesis of LTI compensators. Features <strong>Differential Evolution</strong> optimization, multi-domain analysis (Bode, Nyquist, Step Response), and professional Bento Grid UI. Built with React (TS), Node.js, and <strong>Python FastAPI</strong>.
 
-
-- <a href="https://github.com/Igramoz/Galaxy-Trucker"><img src="https://m.media-amazon.com/images/I/71kKuOzi3ML._AC_UF1000,1000_QL80_.jpg?raw=true" alt="SmartBode Icon" width="30" style="vertical-align: middle;"/></a>
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing <strong>object-oriented design and robust logic</strong>.
 
