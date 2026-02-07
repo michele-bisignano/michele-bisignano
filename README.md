@@ -37,8 +37,9 @@ Active <strong> Magnetic Levitation</strong> System. A model-based implementatio
 
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing <strong>object-oriented design and robust logic</strong>.
-
-- [**Tree-Generator**](https://github.com/michele-bisignano/Tree-Generator.git)  
+  
+- <a href="https://github.com/michele-bisignano/Tree-Generator.git"><img src="https://raw.githubusercontent.com/michele-bisignano/Tree-Generator/refs/heads/main/Docs/Logo/Logo_ProjectTreeGenerator.png" alt="Tree-Generator Icon" width="30" style="vertical-align: middle;"/></a>
+  [**Tree-Generator**](https://github.com/michele-bisignano/Tree-Generator.git)  
   A Python utility to automatically <strong>generate</strong> a Markdown directory<strong> tree </strong>for your project documentation. It respects .gitignore rules and creates "living documentation".
   
 - <a href="https://github.com/michele-bisignano/RippleFX-Engine.git"><img src="https://raw.githubusercontent.com/michele-bisignano/RippleFX-Engine/main/assets/RippleEffectLogo.jpeg" alt="RippleFX Icon" width="30" style="vertical-align: middle;"/></a>
@@ -51,7 +52,8 @@ Active <strong> Magnetic Levitation</strong> System. A model-based implementatio
 - [**Bio-Logic_Controller**](https://github.com/michele-bisignano/Bio-Logic_Controller.git)  
   A precision fermentation chamber controller built with a predictive, <strong>object-oriented C++ core</strong>. It ensures ultimate thermal stability by anticipating temperature changes, not just reacting to them.
 
-- [**PDF Converter**](https://github.com/michele-bisignano/pdf_converter)  
+- <a href="https://github.com/michele-bisignano/pdf_converter.git"><img src="https://raw.githubusercontent.com/michele-bisignano/pdf_converter/refs/heads/main/Logo/PDFtoEXCEL_Converter.png" alt="RippleFX Icon" width="30" style="vertical-align: middle;"/></a>
+  [**PDF Converter**](https://github.com/michele-bisignano/pdf_converter)  
   A lightweight tool for <strong>converting</strong> bank statement form <strong>PDF</strong> to <strong>exel</strong>.
 
 - <a href="https://github.com/michele-bisignano/SudokuSolver"><img src="https://raw.githubusercontent.com/michele-bisignano/SudokuSolver/main/logoSudoku.png" alt="SudokuSolver Icon" width="30" style="vertical-align: middle;"/></a>[**SudokuSolver**](https://github.com/michele-bisignano/SudokuSolver)  
