@@ -9,7 +9,9 @@ I'm a **Computer Engineering student** passionate about programming and the logi
 - **Problem Solver:** Passionate about logical, mathematical, and physics-based challenges.
 - **Freelance Developer:** Building custom applications and develope alorithms for diverse clients.
 ---
-
+## 💼 Explore my work
+[![Portfolio](https://michele-bisignano-portfolio.netlify.app)
+---
 ## 📂 Featured Projects
 
 Here are some of the projects I've worked on:
