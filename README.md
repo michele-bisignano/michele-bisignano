@@ -6,8 +6,9 @@ I'm a **Computer Engineering student** passionate about programming and the logi
 
 ## 🚀 What I Do
 - **Tech Enthusiast:** Always eager to learn new technologies and languages.
-- **Problem Solver:** Passionate about logical, mathematical, and physics-based challenges.
-- **Freelance Developer:** Building custom applications and develope alorithms for diverse clients.
+- **Problem Solver:** Driven by the challenge of translating physical laws and mathematical logic into high-performance, reliable software.
+- **Freelance Developer:** Engineering custom software systems, Unity applications and automation pipelines for industrial and corporate partners, spanning from algorithmic design to full system integration.
+- **AI, Robotics & Embedded Specialist:** Focusing on the intersection of intelligent algorithms and hardware, with a deep interest in real-time control systems and Edge AI.
 ---
 
 ## 💼 Explore my work
