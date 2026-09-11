@@ -15,7 +15,7 @@ I'm a **Computer Engineering student** passionate about programming and the logi
 
 <p align="left">
   <a href="https://michele-bisignano-portfolio.netlify.app" target="_blank" rel="noreferrer">
-    <img src="https://michele-bisignano-portfolio.netlify.app/assets/Michele_Bisignano_Logo-CuLiKe9o.png" alt="Michele_Bisignano_Logo" width="46" height="46"/>
+    <img src="https://github.com/michele-bisignano/portfolio/blob/main/public/favicon.png?raw=true" alt="Michele_Bisignano_Logo" width="46" height="46"/>
   </a>
   <a href="https://michele-bisignano-portfolio.netlify.app" target="_blank" rel="noreferrer">
     Portfolio
@@ -34,6 +34,10 @@ Active <strong> Magnetic Levitation</strong> System. A model-based implementatio
 - <a href="https://github.com/Mattia-Franchini/SmartBode-Tuner.git"><img src="https://github.com/Mattia-Franchini/SmartBode-Tuner/blob/main/Docs/Assets/logo_SmartBode-Tuner.png?raw=true" alt="SmartBode Icon" width="30" style="vertical-align: middle;"/></a>
 [**Smart-Bode**](https://github.com/Mattia-Franchini/SmartBode-Tuner.git)  
 <strong>AI-powered</strong> CAD platform for automated synthesis of LTI compensators. Features <strong>Differential Evolution</strong> optimization, multi-domain analysis (Bode, Nyquist, Step Response), and professional Bento Grid UI. Built with React (TS), Node.js, and <strong>Python FastAPI</strong>.
+
+- <a href="https://github.com/michele-bisignano/MusicSync.git"><img src="https://github.com/michele-bisignano/MusicSync/raw/master/public/MusicSync_icon.png" alt="MusicSync Icon" width="30" style="vertical-align: middle;"/></a>
+[**MusicSync**](https://github.com/michele-bisignano/MusicSync.git)  
+A lightweight, open-source music library synchronizer controlled through Telegram.
 
 - [**Galaxy-Trucker**](https://github.com/Igramoz/Galaxy-Trucker)  
   Java-based digital adaptation of the board game Galaxy Trucker, emphasizing <strong>object-oriented design and robust logic</strong>.
