@@ -45,10 +45,14 @@ A lightweight, open-source music library synchronizer controlled through Telegra
 - <a href="https://github.com/michele-bisignano/Tree-Generator.git"><img src="https://raw.githubusercontent.com/michele-bisignano/Tree-Generator/refs/heads/main/Docs/Logo/Logo_ProjectTreeGenerator.png" alt="Tree-Generator Icon" width="30" style="vertical-align: middle;"/></a>
   [**Tree-Generator**](https://github.com/michele-bisignano/Tree-Generator.git)  
   A Python utility to automatically <strong>generate</strong> a Markdown directory<strong> tree </strong>for your project documentation. It respects .gitignore rules and creates "living documentation".
+
+- <a href="https://github.com/michele-bisignano/pdf2xml-invoice-studio.git"><img src="https://github.com/michele-bisignano/pdf2xml-invoice-studio/blob/main/public/logo.png" alt="pdf2xml Icon" width="30" style="vertical-align: middle;"/></a>
+  [**pdf2xml**](https://github.com/michele-bisignano/pdf2xml-invoice-studio.git)  
+  Offline toolkit to convert PDF foreign supplier invoices into Agenzia delle Entrate compliant XML 
   
 - <a href="https://github.com/michele-bisignano/RippleFX-Engine.git"><img src="https://raw.githubusercontent.com/michele-bisignano/RippleFX-Engine/main/assets/RippleEffectLogo.jpeg" alt="RippleFX Icon" width="30" style="vertical-align: middle;"/></a>
-  [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)  
-  A high-performance, <strong>hardware-agnostic C++ engine</strong> for creating dynamic keyboard lighting effects.
+  [**RippleFX-Engine**](https://github.com/michele-bisignano/RippleFX-Engine.git)
+  Lightning-fast, 100% offline toolkit to convert PDF foreign supplier invoices into Agenzia delle Entrate compliant XML (TD17/FPR12) for Sistemi Profis.
 
 - [**Agrimonia-Air-Quality-Regression**](https://github.com/michele-bisignano/Agrimonia-Air-Quality-Regression.git)  
   <strong>Statistical analysis of air pollution</strong> drivers in Lombardy (Agrimonia dataset). Investigating meteorological factors and the impact of COVID-19 lockdown on PM10 & NO2 levels.
