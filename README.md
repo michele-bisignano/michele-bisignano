@@ -138,5 +138,5 @@ Feel free to contact me at:
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michele-bisignano&layout=donut&hide=asp.net,ShaderLab,HLSL,HTML&legend_pos=left" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michele-bisignano&layout=donut&hide=asp.net,ShaderLab,HLSL,HTML,TypeScript,JavaScript&legend_pos=left" alt="Top Langs" />
 </div> 
